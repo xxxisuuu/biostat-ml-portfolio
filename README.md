@@ -50,7 +50,6 @@ Each folder represents an independent, reproducible analysis — combining stati
 ## 📬 Contact
 
 📧 **Email:** csu9804@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
 💡 **Keywords:** Biostatistics · Machine Learning · Causal Inference · Survival Analysis · Healthcare AI
 
 ---
